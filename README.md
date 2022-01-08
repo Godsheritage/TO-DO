@@ -1,2 +1,2 @@
 # TO-DO
-This is  TO-DO list
+This is a TO-DO list
