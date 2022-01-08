@@ -1,2 +1,2 @@
 # TO-DO
-This is a TO-DO list web Ap
+This is a TO-DO list web App
