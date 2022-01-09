@@ -31,7 +31,7 @@ input.addEventListener('keypress',function(e){
    
 })
 
-/ const lsts = document.querySelector('#list-ite
+/ const lsts = ocument.querySelector('#list-ite
 // lists.addEventListener('click', () => {
 //     lists.style.list-style('underline');
 
