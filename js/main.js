@@ -39,7 +39,7 @@ input.addEventListener('keypress',function(e){
 
 // this.li.addEventListener('click', e => {
 //     console.log(this);
-// })\\
+// })\
 
 
 
